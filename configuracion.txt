@@ -1,0 +1,18 @@
+[
+  {
+  "name": "CraZ",  
+  "comment": "",
+  "allyCode": "167537948",
+  "discordId": "233386233416515584",
+  "tagIdOnClimb": "",
+  "userIcon": ":white_check_mark:"
+  },
+  {
+  "name": "PakPak",  
+  "comment": "",
+  "allyCode": "973486153",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
+ ]
