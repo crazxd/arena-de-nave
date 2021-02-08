@@ -16,7 +16,7 @@
   "userIcon": ":x:"
   },
   {
-  "name": "PakPak",  
+  "name": "RYL C",  
   "comment": "",
   "allyCode": "376479145",
   "discordId": "",
