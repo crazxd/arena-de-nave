@@ -31,4 +31,68 @@
   "tagIdOnClimb": "",
   "userIcon": ":x:"
   },
+   {
+  "name": "Pierro",  
+  "comment": "",
+  "allyCode": "119497216",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  }, 
+  {
+  "name": "Jeffbacca",  
+  "comment": "",
+  "allyCode": "361433339",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
+  {
+  "name": "Alex",  
+  "comment": "",
+  "allyCode": "172831668",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
+  {
+  "name": "Antony",  
+  "comment": "",
+  "allyCode": "652123527",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
+   {
+  "name": "Some",  
+  "comment": "",
+  "allyCode": "851272498",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
+     {
+  "name": "Thiago",  
+  "comment": "",
+  "allyCode": "489333294 ",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
+     {
+  "name": "Bomex",  
+  "comment": "",
+  "allyCode": "532484391",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
+   {
+  "name": "Caltfet",  
+  "comment": "",
+  "allyCode": "998213771",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
  ]
