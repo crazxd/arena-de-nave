@@ -23,4 +23,12 @@
   "tagIdOnClimb": "",
   "userIcon": ":x:"
   },
+   {
+  "name": "Judo1st",  
+  "comment": "",
+  "allyCode": "885626524",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
  ]
