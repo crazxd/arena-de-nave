@@ -15,4 +15,12 @@
   "tagIdOnClimb": "",
   "userIcon": ":x:"
   },
+  {
+  "name": "PakPak",  
+  "comment": "",
+  "allyCode": "376479145",
+  "discordId": "",
+  "tagIdOnClimb": "",
+  "userIcon": ":x:"
+  },
  ]
